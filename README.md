@@ -6,18 +6,31 @@ In this project we are tying to visualize and identify the factors/features that
 
 ### Dataset Used
 In the dataset, the following information was provided:
+
 RowNumber — the record (row) number.
+
 CustomerId — contains random values and has no effect on customer leaving the bank.
+
 Surname
+
 CreditScore
+
 Gender
+
 Age 
+
 Tenure — refers to the number of years that the customer has been a client of the bank
+
 Balance 
+
 NumOfProducts — refers to the number of products that a customer has purchased through the bank.
+
 HasCrCard — denotes whether or not a customer has a credit card.
+
 IsActiveMember
+
 EstimatedSalary
+
 Exited — whether or not the customer left the bank. This is what we have to predict. (0=No,1=Yes). This is going to be our target variable.
 
 #### Effect on the customer leaving the bank?
