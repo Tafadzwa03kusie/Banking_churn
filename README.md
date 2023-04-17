@@ -34,7 +34,7 @@ EstimatedSalary
 Exited — whether or not the customer left the bank. This is what we have to predict. (0=No,1=Yes). This is going to be our target variable.
 
 #### Effect on the customer leaving the bank?
-RowNumber, CustomerId and Surname have no effect on customer leaving the bank
+RowNumber, CustomerId and Surname have no effect on customer leaving the bank.
 Other attributes are more or less likely to have an effect.
 
 The goal is to construct and train a machine learning model to predict the possibility of churns and help custumer service target the factors that may lead to churn and prevent customer churn, reduce loss of profit.
